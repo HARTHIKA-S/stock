@@ -6,7 +6,5 @@ sklearn
 statsmodels
 pmdarima
 streamlit
-sqlite3
 yfinance
-matplotlib
-warnings
+
