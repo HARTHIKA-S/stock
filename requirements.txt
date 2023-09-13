@@ -2,7 +2,7 @@ numpy
 pandas
 datetime
 sktime
-sklearn
+scikit-learn
 statsmodels
 pmdarima
 streamlit
