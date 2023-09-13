@@ -1,12 +1,12 @@
 numpy
 pandas
 datetime
-sktime==0.4.1
+sktime
 sklearn
 statsmodels
 pmdarima
 streamlit
-#sqlite3==3.35.4
+sqlite3
 yfinance
-#matplotlib
-#warnings
+matplotlib
+warnings
